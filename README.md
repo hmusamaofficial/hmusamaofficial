@@ -4,7 +4,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences)](https://git.io/typing-svg)
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
+  </a>
   
 </div>
 
