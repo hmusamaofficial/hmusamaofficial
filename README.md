@@ -99,14 +99,6 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ![Financial Systems](https://img.shields.io/badge/Financial_Systems-Expert-F39C12?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-Expert-4A90E2?style=for-the-badge)
-
-![UAT](https://img.shields.io/badge/UAT-Experienced-5C6AC4?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-Proficient-5C6AC4?style=for-the-badge)
-![Sanity Testing](https://img.shields.io/badge/Sanity_Testing-Proficient-5C6AC4?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-Learning-5C6AC4?style=for-the-badge)
-
-</div>
 
 ### 🤖 AI-Powered Testing (Cutting Edge)
 <div align="center">
@@ -354,7 +346,6 @@ I follow a comprehensive, methodical approach to quality assurance:
 - Work closely with cross-functional teams
 - Participate in refinement and planning sessions
 - Share AI-assisted testing best practices with team
-- Continuously seek ways to improve testing processes
 - Continuously seek ways to improve testing processes
 
 ### 🛡️ Quality Mindset
