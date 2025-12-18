@@ -131,6 +131,37 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Current Role: QA Engineer
+**Focus Areas:**
+- 🔍 **Manual Testing**: Comprehensive test case design and execution for web and mobile applications
+- 🤖 **AI-Powered Testing**: Pioneering use of Google Antigravity and MCP (Model Context Protocol) for intelligent, agentic testing workflows
+- 📋 **Test Documentation**: Creating detailed test plans, test cases, and comprehensive bug reports
+- 🔄 **Regression Testing**: Ensuring stability across releases through systematic regression test suites
+- 🤝 **Cross-functional Collaboration**: Working closely with developers, product managers, and stakeholders to ensure quality delivery
+- 📊 **Quality Metrics**: Tracking and reporting on defect density, test coverage, and quality trends
+
+### 🎯 Key Achievements & Responsibilities
+- ✅ Designed and executed comprehensive test scenarios for complex application features
+- ✅ Identified and documented critical bugs before production release, preventing potential customer impact
+- ✅ Implemented AI-driven testing approaches using cutting-edge tools (Google Antigravity, MCP)
+- ✅ Collaborated in Agile/Scrum environment with sprint planning, daily standups, and retrospectives
+- ✅ Created detailed bug reports with reproduction steps, screenshots, and severity classifications
+- ✅ Performed exploratory testing to uncover edge cases and usability issues
+- ✅ Contributed to improving QA processes and testing workflows within the team
+
+### 🚀 Technologies & Methodologies in Practice
+- **Testing Types**: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UAT, Exploratory Testing
+- **Bug Tracking**: Jira for defect management and tracking
+- **Collaboration Tools**: GitHub, Git for version control and collaboration
+- **Testing Approaches**: Black-box testing, Grey-box testing, Risk-based testing
+- **Methodologies**: Agile/Scrum, SDLC, STLC, Defect Lifecycle Management
+
+> 💡 **Note**: While currently working in a private repository environment, I've gained invaluable hands-on experience in professional QA practices, AI-powered testing workflows, and modern development methodologies that I'm eager to bring to new opportunities.
+
+---
+
 ## 🎯 Professional Goals
 
 ### 🚀 2025 Objectives
@@ -149,6 +180,34 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 ---
 
+## 📚 Learning & Development
+
+### 🎓 Continuous Learning Journey
+
+I believe in staying current with industry trends and continuously expanding my skill set:
+
+#### 📖 Currently Learning
+- **Test Automation**: Exploring Selenium WebDriver and Playwright for automated testing
+- **API Testing**: Deep-diving into REST API testing with Postman and API automation
+- **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
+- **CI/CD Integration**: Learning how QA fits into DevOps pipelines
+- **Advanced AI Testing**: Mastering Google Antigravity and MCP for next-gen testing
+
+#### 🎯 Target Certifications
+- **ISTQB Foundation Level** (2025)
+- **ISTQB Advanced Test Analyst** (2026)
+- **Certified Agile Tester (CAT)** (Future)
+
+#### 📝 Knowledge Areas of Interest
+- Shift-left testing methodologies
+- Test-driven development (TDD) concepts
+- Behavior-driven development (BDD) with Cucumber
+- Mobile testing best practices (iOS & Android)
+- Accessibility testing (WCAG guidelines)
+- Security testing fundamentals
+
+---
+
 ## 💼 What I Bring to Your Team
 
 <div align="center">
@@ -164,6 +223,42 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 - **Modern QA Approach**: Early adopter of AI-powered testing methodologies
 - **Growth Mindset**: Continuously learning and adapting to industry best practices
 - **Quality Advocate**: Passionate about building bug-free, user-centric experiences
+
+---
+
+## 🔍 My Testing Approach
+
+### 🎯 Testing Philosophy
+
+I follow a comprehensive, methodical approach to quality assurance:
+
+#### 1️⃣ **Understand Requirements**
+- Thoroughly analyze functional and non-functional requirements
+- Ask clarifying questions to eliminate ambiguity
+- Identify potential edge cases and boundary conditions early
+
+#### 2️⃣ **Plan Strategically**
+- Create comprehensive test plans aligned with project goals
+- Prioritize testing based on risk assessment and business impact
+- Design test cases covering positive, negative, and edge scenarios
+
+#### 3️⃣ **Execute Methodically**
+- Follow systematic test execution with detailed documentation
+- Maintain traceability between requirements and test cases
+- Use exploratory testing to uncover unexpected issues
+
+#### 4️⃣ **Report Clearly**
+- Document bugs with clear reproduction steps and evidence (screenshots/videos)
+- Classify defects by severity and priority
+- Provide actionable insights to development teams
+
+#### 5️⃣ **Collaborate & Improve**
+- Work closely with cross-functional teams
+- Participate in refinement and planning sessions
+- Continuously seek ways to improve testing processes
+
+### 🛡️ Quality Mindset
+> *"I don't just find bugs—I prevent them by thinking like an end-user, understanding the system holistically, and advocating for quality at every stage of development."*
 
 ---
 
@@ -187,12 +282,53 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 I'm always open to discussing QA opportunities, testing strategies, or collaboration on quality initiatives!
 
+### 🌐 Professional Platforms
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusamaofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-@hmusamaofficial-181717?style=for-the-badge&logo=github)](https://github.com/hmusamaofficial)
-[![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hmusamaofficial)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusamaofficial@gmail.com)
 
+### 💼 Freelance & Services
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hmusamaofficial)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hmusamaofficial)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hmusamaofficial)
+
+### 🔗 More Links
+
+[![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hmusamaofficial)
+
 </div>
+
+---
+
+## 💡 Open to Opportunities
+
+### 🚀 Available For
+
+I'm actively seeking opportunities to contribute my QA expertise to innovative teams and projects:
+
+- **Full-time QA Engineer positions** - Ready to bring professional testing excellence to your team
+- **Contract/Freelance QA projects** - Available for short-term and long-term engagements
+- **QA Consulting** - Help improve your testing processes and quality standards
+- **Manual Testing Services** - Comprehensive testing for web and mobile applications
+- **AI-Powered Testing Projects** - Leveraging cutting-edge tools for modern QA needs
+- **Remote Collaboration** - Experienced in remote work with international teams
+
+### 🎯 What I'm Looking For
+- **Growth-oriented teams** that value quality and continuous improvement
+- **Modern tech stacks** where I can apply and expand my QA skills
+- **Collaborative environments** that encourage learning and knowledge sharing
+- **Impactful projects** where quality makes a real difference to users
+- **Opportunities** to work with AI-powered testing and automation
+
+### 📍 Work Preferences
+- ✅ Remote work (preferred)
+- ✅ Hybrid arrangements
+- ✅ Flexible hours for international collaboration
+- ✅ Open to relocation for the right opportunity
+
+> 💬 **Ready to discuss how I can contribute to your quality assurance needs!** Feel free to reach out via LinkedIn, email, or through any of my freelance platforms.
 
 ---
 
