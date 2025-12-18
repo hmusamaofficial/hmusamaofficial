@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences)](https://git.io/typing-svg)
   
 </div>
 
@@ -152,7 +152,7 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmusamaofficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hmusamaofficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -161,10 +161,6 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hmusamaofficial&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Coding Stats" />
 </div>
 
 ---
