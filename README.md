@@ -16,6 +16,10 @@
   
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Breaking+Software+Professionally+Since+2024;ERP+Testing+Specialist+%7C+AI-Powered+QA;Turning+Bugs+Into+Features...+Wait%2C+That's+Not+Right!+%F0%9F%90%9B" alt="Tagline" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -30,14 +34,20 @@ const muhammadUsama = {
     expertise: {
         testingTypes: ["Manual Testing", "Exploratory Testing", "Regression Testing", 
                        "UAT", "Smoke Testing", "Sanity Testing"],
-        modernApproach: ["AI-Powered Testing", "Agentic Test Workflows"],
+        modernApproach: ["AI-Powered Testing", "Agentic Test Workflows", 
+                        "AI-Assisted Test Case Generation"],
+        aiTools: ["ChatGPT", "Google Gemini", "GitHub Copilot"],
+        erpTesting: ["ERPX System", "Financials Module", "Stock Management", 
+                    "Multi-Module Integration"],
         methodology: ["Agile/Scrum", "SDLC", "STLC", "Defect Lifecycle"],
         mindset: "Analytical • Detail-Oriented • Quality-Obsessed"
     },
     
     uniqueValue: {
         scientificBackground: "Research experience brings analytical rigor",
+        aiLeveraging: "Using AI tools to enhance testing efficiency",
         crossDomainExpertise: "Bridging technical and domain knowledge",
+        erpSpecialization: "Deep expertise in ERP system testing",
         adaptability: "Quick learner, embracing modern QA innovations",
         perspective: "QA is about critical thinking, not just code"
     },
@@ -76,6 +86,28 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 </div>
 
+### 🏢 ERP & Domain Expertise
+<div align="center">
+
+![ERP Testing](https://img.shields.io/badge/ERP_Testing-Specialist-E67E22?style=for-the-badge&logo=enterprise&logoColor=white)
+![ERPX System](https://img.shields.io/badge/ERPX-System_Testing-D35400?style=for-the-badge)
+![Financials Module](https://img.shields.io/badge/Financials-Primary_Focus-27AE60?style=for-the-badge&logo=cashapp&logoColor=white)
+![Stock Management](https://img.shields.io/badge/Stock_Management-Testing-16A085?style=for-the-badge&logo=dropbox&logoColor=white)
+
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-Multi_Module-8E44AD?style=for-the-badge)
+![Business Workflows](https://img.shields.io/badge/Business_Workflows-Validation-C0392B?style=for-the-badge)
+![Financial Systems](https://img.shields.io/badge/Financial_Systems-Expert-F39C12?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-Expert-4A90E2?style=for-the-badge)
+
+![UAT](https://img.shields.io/badge/UAT-Experienced-5C6AC4?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-Proficient-5C6AC4?style=for-the-badge)
+![Sanity Testing](https://img.shields.io/badge/Sanity_Testing-Proficient-5C6AC4?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-Learning-5C6AC4?style=for-the-badge)
+
+</div>
+
 ### 🤖 AI-Powered Testing (Cutting Edge)
 <div align="center">
 
@@ -84,9 +116,15 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ![VS Code AI](https://img.shields.io/badge/VS_Code-AI_Integrations-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-Natural_Language-10B981?style=for-the-badge)
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Test_Case_Generation-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI_Assistant-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Test_Scenarios-000000?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 > 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and Google Antigravity to perform intelligent testing via natural language commands—no code required, just strategic thinking!
+
+> 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
 
 ### 🧰 Tools & Technologies
 <div align="center">
@@ -126,7 +164,15 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hmusamaofficial&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Coding Stats" />
 </div>
 
 ---
@@ -136,26 +182,46 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ### 🏢 Current Role: QA Engineer
 **Focus Areas:**
 - 🔍 **Manual Testing**: Comprehensive test case design and execution for web and mobile applications
+- 🏢 **ERP System Testing**: Specialized testing of ERPX - Enterprise Resource Planning system with focus on Financials module and multi-module integration
 - 🤖 **AI-Powered Testing**: Pioneering use of Google Antigravity and MCP (Model Context Protocol) for intelligent, agentic testing workflows
+- 🤖 **AI-Assisted QA**: Leveraging ChatGPT, Google Gemini, and GitHub Copilot for test case generation and scenario planning
 - 📋 **Test Documentation**: Creating detailed test plans, test cases, and comprehensive bug reports
 - 🔄 **Regression Testing**: Ensuring stability across releases through systematic regression test suites
 - 🤝 **Cross-functional Collaboration**: Working closely with developers, product managers, and stakeholders to ensure quality delivery
 - 📊 **Quality Metrics**: Tracking and reporting on defect density, test coverage, and quality trends
 
+### 🏢 ERP Testing Expertise (ERPX System)
+**Primary Module Focus:**
+- 💰 **Financials Module**: In-depth testing of accounting, billing, invoicing, and financial reporting features
+- 📊 **Financial Workflows**: Validation of end-to-end financial processes and transactions
+- 🔍 **Financial Data Integrity**: Ensuring accuracy and consistency in financial calculations and reports
+
+**Additional Module Testing:**
+- 📦 **Stock Management Module**: Inventory tracking, stock movements, and warehouse operations
+- 🔗 **Multi-Module Integration**: Testing seamless data flow between Financials, Stocks, and other ERPX modules
+- 🌐 **Cross-Module Scenarios**: Validating complex business processes spanning multiple system areas
+- 🔐 **User Access & Permissions**: Testing role-based access control across different modules
+
+> 💡 **ERP Testing Approach**: Combining domain knowledge of business processes with technical testing expertise to ensure ERPX delivers reliable, accurate, and user-friendly enterprise solutions.
+
 ### 🎯 Key Achievements & Responsibilities
-- ✅ Designed and executed comprehensive test scenarios for complex application features
+- ✅ Designed and executed comprehensive test scenarios for complex ERP application features across multiple modules
+- ✅ Specialized in Financials module testing ensuring accuracy in critical financial operations
 - ✅ Identified and documented critical bugs before production release, preventing potential customer impact
-- ✅ Implemented AI-driven testing approaches using cutting-edge tools (Google Antigravity, MCP)
+- ✅ Implemented AI-driven testing approaches using cutting-edge tools (ChatGPT, Gemini, GitHub Copilot for test generation)
 - ✅ Collaborated in Agile/Scrum environment with sprint planning, daily standups, and retrospectives
 - ✅ Created detailed bug reports with reproduction steps, screenshots, and severity classifications
-- ✅ Performed exploratory testing to uncover edge cases and usability issues
+- ✅ Performed exploratory testing to uncover edge cases and usability issues across ERP modules
+- ✅ Validated integration between Financials, Stocks, and other ERPX modules
 - ✅ Contributed to improving QA processes and testing workflows within the team
 
 ### 🚀 Technologies & Methodologies in Practice
-- **Testing Types**: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UAT, Exploratory Testing
+- **Testing Types**: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UAT, Exploratory Testing, Integration Testing
+- **Domain**: ERP Systems (ERPX), Financial Software, Stock Management, Enterprise Applications
+- **AI Tools**: ChatGPT, Google Gemini, GitHub Copilot for test case generation
 - **Bug Tracking**: Jira for defect management and tracking
 - **Collaboration Tools**: GitHub, Git for version control and collaboration
-- **Testing Approaches**: Black-box testing, Grey-box testing, Risk-based testing
+- **Testing Approaches**: Black-box testing, Grey-box testing, Risk-based testing, End-to-end testing
 - **Methodologies**: Agile/Scrum, SDLC, STLC, Defect Lifecycle Management
 
 > 💡 **Note**: While currently working in a private repository environment, I've gained invaluable hands-on experience in professional QA practices, AI-powered testing workflows, and modern development methodologies that I'm eager to bring to new opportunities.
@@ -186,12 +252,19 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 I believe in staying current with industry trends and continuously expanding my skill set:
 
+#### 🔥 Currently Working On
+- 🏢 **ERPX Financials Module**: Deep testing of financial workflows and reporting
+- 🤖 **AI-Assisted Testing**: Refining workflows with ChatGPT, Gemini, and GitHub Copilot
+- 📦 **Multi-Module Integration**: Testing seamless data flow across ERPX modules
+- 📊 **Financial Data Validation**: Ensuring accuracy in critical business calculations
+
 #### 📖 Currently Learning
 - **Test Automation**: Exploring Selenium WebDriver and Playwright for automated testing
 - **API Testing**: Deep-diving into REST API testing with Postman and API automation
 - **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
 - **CI/CD Integration**: Learning how QA fits into DevOps pipelines
 - **Advanced AI Testing**: Mastering Google Antigravity and MCP for next-gen testing
+- **ERP Best Practices**: Deepening knowledge of financial and stock management systems
 
 #### 🎯 Target Certifications
 - **ISTQB Foundation Level** (2025)
@@ -220,13 +293,33 @@ I believe in staying current with industry trends and continuously expanding my 
 
 ### 🌟 Unique Differentiators
 - **Cross-Domain Thinking**: Scientific research background enables unique testing perspectives
-- **Modern QA Approach**: Early adopter of AI-powered testing methodologies
+- **ERP Testing Specialization**: Deep expertise in ERPX system with focus on Financials and Stock Management
+- **AI-Augmented Testing**: Leveraging ChatGPT, Gemini, and Copilot to enhance test case generation efficiency
+- **Modern QA Approach**: Early adopter of AI-powered testing methodologies and agentic workflows
 - **Growth Mindset**: Continuously learning and adapting to industry best practices
 - **Quality Advocate**: Passionate about building bug-free, user-centric experiences
 
 ---
 
 ## 🔍 My Testing Approach
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[📋 Understand] --> B[📝 Plan]
+    B --> C[⚡ Execute]
+    C --> D[📊 Report]
+    D --> E[🔄 Improve]
+    E --> A
+    style A fill:#4A90E2
+    style B fill:#5C6AC4
+    style C fill:#27AE60
+    style D fill:#E67E22
+    style E fill:#8E44AD
+```
+
+</div>
 
 ### 🎯 Testing Philosophy
 
@@ -236,25 +329,32 @@ I follow a comprehensive, methodical approach to quality assurance:
 - Thoroughly analyze functional and non-functional requirements
 - Ask clarifying questions to eliminate ambiguity
 - Identify potential edge cases and boundary conditions early
+- Review business workflows in ERP context
 
 #### 2️⃣ **Plan Strategically**
 - Create comprehensive test plans aligned with project goals
+- Leverage AI tools (ChatGPT, Gemini, Copilot) to generate diverse test scenarios
 - Prioritize testing based on risk assessment and business impact
 - Design test cases covering positive, negative, and edge scenarios
 
 #### 3️⃣ **Execute Methodically**
 - Follow systematic test execution with detailed documentation
+- Execute AI-generated test cases manually with precision and analytical insight
 - Maintain traceability between requirements and test cases
 - Use exploratory testing to uncover unexpected issues
+- Validate integration across ERP modules (Financials, Stocks, etc.)
 
 #### 4️⃣ **Report Clearly**
 - Document bugs with clear reproduction steps and evidence (screenshots/videos)
-- Classify defects by severity and priority
+- Classify defects by severity and priority with business impact analysis
 - Provide actionable insights to development teams
+- Track defects through complete lifecycle in Jira
 
 #### 5️⃣ **Collaborate & Improve**
 - Work closely with cross-functional teams
 - Participate in refinement and planning sessions
+- Share AI-assisted testing best practices with team
+- Continuously seek ways to improve testing processes
 - Continuously seek ways to improve testing processes
 
 ### 🛡️ Quality Mindset
