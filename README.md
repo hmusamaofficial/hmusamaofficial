@@ -200,8 +200,6 @@ I'm always open to discussing QA opportunities, testing strategies, or collabora
   
   ### ⭐ If you find my profile interesting, consider giving my repositories a star!
   
-  ![Snake animation](https://raw.githubusercontent.com/hmusamaofficial/hmusamaofficial/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
 
 <div align="center">
