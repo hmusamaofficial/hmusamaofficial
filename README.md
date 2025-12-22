@@ -430,7 +430,7 @@ I'm actively seeking opportunities to contribute my QA expertise to innovative t
 
 <div align="center">
   
-  **🐛 Breaking software professionally since 2024 • Built with 💙 for Quality**
+  **🐛 Breaking software professionally since 2025 • Built with 💙 for Quality**
   
   ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)
   ![QA Focus](https://img.shields.io/badge/Focus-Quality_Assurance-blue?style=flat-square)
