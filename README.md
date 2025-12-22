@@ -152,14 +152,6 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hmusamaofficial&theme=dark" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 💼 Professional Experience
