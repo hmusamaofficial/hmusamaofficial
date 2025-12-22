@@ -368,14 +368,14 @@ I'm always open to discussing QA opportunities, testing strategies, or collabora
 
 ### 🌐 Professional Platforms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusamaofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusama)
 [![GitHub](https://img.shields.io/badge/GitHub-@hmusamaofficial-181717?style=for-the-badge&logo=github)](https://github.com/hmusamaofficial)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusamaofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusama2018@gmail.com)
 
 ### 💼 Freelance & Services
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hmusamaofficial)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hmusamaofficial)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c5bcc00e0f0a4a9e)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/i_am_muhammad)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hmusamaofficial)
 
 ### 🔗 More Links
