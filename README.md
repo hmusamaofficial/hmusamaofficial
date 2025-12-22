@@ -370,7 +370,7 @@ I'm always open to discussing QA opportunities, testing strategies, or collabora
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusama)
 [![GitHub](https://img.shields.io/badge/GitHub-@hmusamaofficial-181717?style=for-the-badge&logo=github)](https://github.com/hmusamaofficial)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusamaofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusama2018@gmail.com)
 
 ### 💼 Freelance & Services
 
