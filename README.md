@@ -105,7 +105,6 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ### 🤖 AI-Powered Testing (Cutting Edge)
 <div align="center">
 
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-AI_Testing-EA4335?style=for-the-badge&logo=google)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=for-the-badge)
 ![VS Code AI](https://img.shields.io/badge/VS_Code-AI_Integrations-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-Natural_Language-10B981?style=for-the-badge)
@@ -116,7 +115,7 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 </div>
 
-> 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and Google Antigravity to perform intelligent testing via natural language commands—no code required, just strategic thinking!
+> 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and AI assistants to perform intelligent testing via natural language commands—combining AI efficiency with strategic thinking!
 
 > 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
 
@@ -158,10 +157,6 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
@@ -173,7 +168,7 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 **Focus Areas:**
 - 🔍 **Manual Testing**: Comprehensive test case design and execution for web and mobile applications
 - 🏢 **ERP System Testing**: Specialized testing of ERPX - Enterprise Resource Planning system with focus on Financials module and multi-module integration
-- 🤖 **AI-Powered Testing**: Pioneering use of Google Antigravity and MCP (Model Context Protocol) for intelligent, agentic testing workflows
+- 🤖 **AI-Powered Testing**: Utilizing MCP (Model Context Protocol) for intelligent, agentic testing workflows
 - 🤖 **AI-Assisted QA**: Leveraging ChatGPT, Google Gemini, and GitHub Copilot for test case generation and scenario planning
 - 📋 **Test Documentation**: Creating detailed test plans, test cases, and comprehensive bug reports
 - 🔄 **Regression Testing**: Ensuring stability across releases through systematic regression test suites
@@ -220,14 +215,14 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 ## 🎯 Professional Goals
 
-### 🚀 2025 Objectives
+### 🚀 Current Focus & 2026 Objectives
 - 🎓 **Certifications**: Obtain ISTQB Foundation Level certification
 - 🤖 **AI Testing Mastery**: Deepen expertise in AI-powered testing workflows and MCP integrations
 - 📈 **Automation Skills**: Learn test automation fundamentals (Selenium/Playwright basics)
 - 🌐 **API Testing**: Master REST API testing with Postman/Newman
 - 🏆 **Career Growth**: Advance to Senior QA Engineer role
 
-### 🌟 2026 Vision
+### 🌟 Long-term Vision
 - 🎯 Lead QA initiatives for complex enterprise applications
 - 🤝 Mentor junior QA engineers and build testing best practices
 - 🛠️ Implement comprehensive test automation frameworks
@@ -253,12 +248,12 @@ I believe in staying current with industry trends and continuously expanding my 
 - **API Testing**: Deep-diving into REST API testing with Postman and API automation
 - **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
 - **CI/CD Integration**: Learning how QA fits into DevOps pipelines
-- **Advanced AI Testing**: Mastering Google Antigravity and MCP for next-gen testing
+- **Advanced AI Testing**: Mastering AI-powered testing workflows with MCP and LLMs for next-gen QA
 - **ERP Best Practices**: Deepening knowledge of financial and stock management systems
 
 #### 🎯 Target Certifications
-- **ISTQB Foundation Level** (2025)
-- **ISTQB Advanced Test Analyst** (2026)
+- **ISTQB Foundation Level** (In Progress)
+- **ISTQB Advanced Test Analyst** (Planned)
 - **Certified Agile Tester (CAT)** (Future)
 
 #### 📝 Knowledge Areas of Interest
