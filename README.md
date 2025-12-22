@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Breaking+Software+Professionally+Since+2024;ERP+Testing+Specialist+%7C+AI-Powered+QA;Turning+Bugs+Into+Features...+Wait%2C+That's+Not+Right!+%F0%9F%90%9B" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Breaking+Software+Professionally+Since+2025;ERP+Testing+Specialist+%7C+AI-Powered+QA;Turning+Bugs+Into+Features...+Wait%2C+That's+Not+Right!+%F0%9F%90%9B" alt="Tagline" />
 </p>
 
 ---
