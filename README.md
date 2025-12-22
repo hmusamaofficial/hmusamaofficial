@@ -374,8 +374,8 @@ I'm always open to discussing QA opportunities, testing strategies, or collabora
 
 ### 💼 Freelance & Services
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hmusamaofficial)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hmusamaofficial)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c5bcc00e0f0a4a9e)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/i_am_muhammad)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hmusamaofficial)
 
 ### 🔗 More Links
