@@ -115,7 +115,7 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 
 </div>
 
-> 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and AI assistants to perform intelligent testing via natural language commands—combining AI efficiency with strategic thinking!
+> 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and AI assistants to perform intelligent testing via natural language commands—no code required, just strategic thinking!
 
 > 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
 
@@ -248,7 +248,7 @@ I believe in staying current with industry trends and continuously expanding my 
 - **API Testing**: Deep-diving into REST API testing with Postman and API automation
 - **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
 - **CI/CD Integration**: Learning how QA fits into DevOps pipelines
-- **Advanced AI Testing**: Mastering AI-powered testing workflows with MCP and LLMs for next-gen QA
+- **Advanced AI Testing**: Mastering AI-powered testing with MCP and LLMs
 - **ERP Best Practices**: Deepening knowledge of financial and stock management systems
 
 #### 🎯 Target Certifications
