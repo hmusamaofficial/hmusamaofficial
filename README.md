@@ -13,7 +13,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=hmusamaofficial&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hmusamaofficial)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hmusama)
   [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=flat-square&logo=linktree)](https://linktr.ee/hmusamaofficial)
   
 </div>
