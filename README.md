@@ -148,16 +148,16 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hmusamaofficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmusamaofficial&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -430,7 +430,7 @@ I'm actively seeking opportunities to contribute my QA expertise to innovative t
 
 <div align="center">
   
-  **🐛 Breaking software professionally since 2024 • Built with 💙 for Quality**
+  **🐛 Breaking software professionally since 2025 • Built with 💙 for Quality**
   
   ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)
   ![QA Focus](https://img.shields.io/badge/Focus-Quality_Assurance-blue?style=flat-square)
