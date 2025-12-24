@@ -153,7 +153,7 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hmusamaofficial&theme=dark-aura&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hmusamaofficial&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
