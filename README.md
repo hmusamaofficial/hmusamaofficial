@@ -1,26 +1,47 @@
+<!-- Header Banner with Enhanced Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Usama&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
+<!-- Stylish Name Banner with Glow Effect -->
 <div align="center">
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" alt="Name" />
+  </picture>
+</div>
+
+<!-- Professional Title with Premium Font -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&height=45&lines=%E2%9C%A8+Quality+Assurance+Engineer+%E2%9C%A8" alt="Title" />
+</div>
+
+<!-- Animated Role Descriptions -->
+<div align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;ERP+Systems+Testing+Specialist;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=Manual+Testing+Expert+%7C+ERP+Specialist;AI-Powered+Testing+Enthusiast;Multi-Module+ERP+Systems+Testing;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
   </a>
-  
 </div>
 
+<!-- Decorative Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- Profile Stats Badges -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=hmusamaofficial&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hmusama)
-  [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=flat-square&logo=linktree)](https://linktr.ee/hmusamaofficial)
+  ![Profile Views](https://komarev.com/ghpvc/?username=hmusamaofficial&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusama)
+  [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hmusamaofficial)
   
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Breaking+Software+Professionally+Since+2025;ERP+Testing+Specialist+%7C+AI-Powered+QA;Turning+Bugs+Into+Features...+Wait%2C+That's+Not+Right!+%F0%9F%90%9B" alt="Tagline" />
-</p>
+<!-- Tagline with Fun Element -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%90%9B+Breaking+Software+Professionally+Since+2025;%F0%9F%8E%AF+ERP+Testing+Specialist+%7C+AI-Powered+QA+Pioneer" alt="Tagline" />
+</div>
 
 ---
 
@@ -152,6 +173,10 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
@@ -164,8 +189,13 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
 </div>
 
+<!-- GitHub Trophies with Working Service -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -444,6 +474,10 @@ I follow a comprehensive, methodical approach to quality assurance:
 ---
 
 ## 📫 Let's Connect!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
