@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=QA+Engineer+%7C+Manual+Testing+Expert;AI-Powered+Testing+Enthusiast;ERP+Systems+Testing+Specialist;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
   </a>
   
 </div>
@@ -38,9 +38,12 @@ const muhammadUsama = {
                        "UAT", "Smoke Testing", "Sanity Testing"],
         modernApproach: ["AI-Powered Testing", "Agentic Test Workflows", 
                         "AI-Assisted Test Case Generation"],
-        aiTools: ["ChatGPT", "Google Gemini", "GitHub Copilot"],
-        erpTesting: ["ERPX System", "Financials Module", "Stock Management", 
-                    "Multi-Module Integration"],
+        aiTools: ["ChatGPT", "Google Gemini", "GitHub Copilot", "Claude AI"],
+        erpModules: {
+            primary: ["Financials", "HR & Payroll", "Inventory", "Sales", "Purchase"],
+            additional: ["Master Data", "Support", "User Management", 
+                        "Org & Subscription", "Stock Management"]
+        },
         methodology: ["Agile/Scrum", "SDLC", "STLC", "Defect Lifecycle"],
         mindset: "Analytical • Detail-Oriented • Quality-Obsessed"
     },
@@ -49,7 +52,7 @@ const muhammadUsama = {
         scientificBackground: "Research experience brings analytical rigor",
         aiLeveraging: "Using AI tools to enhance testing efficiency",
         crossDomainExpertise: "Bridging technical and domain knowledge",
-        erpSpecialization: "Deep expertise in ERP system testing",
+        erpSpecialization: "Deep expertise in multi-module ERP system testing",
         adaptability: "Quick learner, embracing modern QA innovations",
         perspective: "QA is about critical thinking, not just code"
     },
@@ -112,12 +115,13 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Test_Case_Generation-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI_Assistant-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Test_Scenarios-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-Advanced_Analysis-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 > 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and AI assistants to perform intelligent testing via natural language commands—no code required, just strategic thinking!
 
-> 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
+> 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, Claude AI, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
 
 ### 🧰 Tools & Technologies
 <div align="center">
@@ -148,16 +152,20 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hmusamaofficial&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hmusamaofficial&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -167,43 +175,118 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 ### 🏢 Current Role: QA Engineer
 **Focus Areas:**
 - 🔍 **Manual Testing**: Comprehensive test case design and execution for web and mobile applications
-- 🏢 **ERP System Testing**: Specialized testing of ERPX - Enterprise Resource Planning system with focus on Financials module and multi-module integration
+- 🏢 **ERP System Testing**: Specialized testing of ERPX - Enterprise Resource Planning system with multi-module expertise
 - 🤖 **AI-Powered Testing**: Utilizing MCP (Model Context Protocol) for intelligent, agentic testing workflows
-- 🤖 **AI-Assisted QA**: Leveraging ChatGPT, Google Gemini, and GitHub Copilot for test case generation and scenario planning
+- 🤖 **AI-Assisted QA**: Leveraging ChatGPT, Google Gemini, Claude AI, and GitHub Copilot for test case generation and scenario planning
 - 📋 **Test Documentation**: Creating detailed test plans, test cases, and comprehensive bug reports
 - 🔄 **Regression Testing**: Ensuring stability across releases through systematic regression test suites
 - 🤝 **Cross-functional Collaboration**: Working closely with developers, product managers, and stakeholders to ensure quality delivery
 - 📊 **Quality Metrics**: Tracking and reporting on defect density, test coverage, and quality trends
 
+---
+
 ### 🏢 ERP Testing Expertise (ERPX System)
-**Primary Module Focus:**
-- 💰 **Financials Module**: In-depth testing of accounting, billing, invoicing, and financial reporting features
-- 📊 **Financial Workflows**: Validation of end-to-end financial processes and transactions
-- 🔍 **Financial Data Integrity**: Ensuring accuracy and consistency in financial calculations and reports
 
-**Additional Module Testing:**
-- 📦 **Stock Management Module**: Inventory tracking, stock movements, and warehouse operations
-- 🔗 **Multi-Module Integration**: Testing seamless data flow between Financials, Stocks, and other ERPX modules
-- 🌐 **Cross-Module Scenarios**: Validating complex business processes spanning multiple system areas
-- 🔐 **User Access & Permissions**: Testing role-based access control across different modules
+<div align="center">
 
-> 💡 **ERP Testing Approach**: Combining domain knowledge of business processes with technical testing expertise to ensure ERPX delivers reliable, accurate, and user-friendly enterprise solutions.
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        🏆 ERPX MODULE TESTING EXPERTISE                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   ⭐ PRIMARY EXPERTISE (Core Modules)                                       │
+│   ════════════════════════════════════                                      │
+│   💰 Financials      │ 👥 HR & Payroll   │ 📦 Inventory                     │
+│   💳 Sales           │ 🛒 Purchase                                          │
+│                                                                             │
+│   🔧 ADDITIONAL MODULES                                                      │
+│   ════════════════════                                                      │
+│   📋 Master Data     │ 🎫 Support        │ 👤 User Management               │
+│   🏢 Org & Subscription │ 📊 Stock Management                               │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+#### ⭐ Primary Module Expertise
+
+<div align="center">
+
+| Module | Expertise Level | Key Testing Areas |
+|:------:|:---------------:|:------------------|
+| 💰 **Financials** | 🔥 Expert | Accounting, Billing, Invoicing, Financial Reports, Transactions, Ledgers |
+| 👥 **HR & Payroll** | 🔥 Expert | Employee Management, Payroll Processing, Leave Management, Attendance |
+| 📦 **Inventory** | 🔥 Expert | Stock Tracking, Warehouse Operations, Stock Movements, Inventory Valuation |
+| 💳 **Sales** | 🔥 Expert | Sales Orders, Quotations, Customer Management, Sales Analytics |
+| 🛒 **Purchase** | 🔥 Expert | Purchase Orders, Vendor Management, Procurement Workflows, PO Approvals |
+
+</div>
+
+#### 🔧 Additional Module Testing
+
+<div align="center">
+
+| Module | Testing Focus |
+|:------:|:--------------|
+| 📋 **Master Data** | Data Integrity, Master Records, Configuration Settings |
+| 🎫 **Support** | Ticket Management, Issue Tracking, Customer Support Workflows |
+| 👤 **User Management** | Role-Based Access Control, Permissions, User Authentication |
+| 🏢 **Org & Subscription** | Organization Settings, Subscription Plans, Billing Cycles |
+| 📊 **Stock Management** | Real-time Stock Updates, Multi-warehouse, Stock Reconciliation |
+
+</div>
+
+#### 🔗 Cross-Module Integration Testing
+
+```mermaid
+graph TD
+    A[💰 Financials] --> B[💳 Sales]
+    A --> C[🛒 Purchase]
+    A --> D[👥 HR & Payroll]
+    B --> E[📦 Inventory]
+    C --> E
+    E --> F[📊 Stock Management]
+    D --> A
+    G[📋 Master Data] --> A
+    G --> B
+    G --> C
+    H[👤 User Management] --> I[🔐 Access Control]
+    I --> A
+    I --> B
+    I --> C
+    
+    style A fill:#27AE60,stroke:#1E8449,color:#fff
+    style B fill:#3498DB,stroke:#2980B9,color:#fff
+    style C fill:#E74C3C,stroke:#C0392B,color:#fff
+    style D fill:#9B59B6,stroke:#8E44AD,color:#fff
+    style E fill:#F39C12,stroke:#D68910,color:#fff
+    style F fill:#1ABC9C,stroke:#16A085,color:#fff
+    style G fill:#34495E,stroke:#2C3E50,color:#fff
+    style H fill:#E67E22,stroke:#D35400,color:#fff
+    style I fill:#7F8C8D,stroke:#707B7C,color:#fff
+```
+
+> 💡 **ERP Testing Approach**: Combining domain knowledge of business processes with technical testing expertise to ensure ERPX delivers reliable, accurate, and user-friendly enterprise solutions across all integrated modules.
+
+---
 
 ### 🎯 Key Achievements & Responsibilities
-- ✅ Designed and executed comprehensive test scenarios for complex ERP application features across multiple modules
-- ✅ Specialized in Financials module testing ensuring accuracy in critical financial operations
-- ✅ Identified and documented critical bugs before production release, preventing potential customer impact
-- ✅ Implemented AI-driven testing approaches using cutting-edge tools (ChatGPT, Gemini, GitHub Copilot for test generation)
+- ✅ Designed and executed comprehensive test scenarios for complex ERP application features across **10+ modules**
+- ✅ Specialized in **Financials, HR, Inventory, Sales, and Purchase** module testing ensuring accuracy in critical business operations
+- ✅ Identified and documented **critical bugs** before production release, preventing potential customer impact
+- ✅ Implemented AI-driven testing approaches using cutting-edge tools (ChatGPT, Gemini, Claude AI, GitHub Copilot for test generation)
+- ✅ Validated **end-to-end business workflows** spanning multiple ERP modules
 - ✅ Collaborated in Agile/Scrum environment with sprint planning, daily standups, and retrospectives
 - ✅ Created detailed bug reports with reproduction steps, screenshots, and severity classifications
 - ✅ Performed exploratory testing to uncover edge cases and usability issues across ERP modules
-- ✅ Validated integration between Financials, Stocks, and other ERPX modules
+- ✅ Tested **role-based access control** and user permissions across all modules
 - ✅ Contributed to improving QA processes and testing workflows within the team
 
 ### 🚀 Technologies & Methodologies in Practice
 - **Testing Types**: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UAT, Exploratory Testing, Integration Testing
-- **Domain**: ERP Systems (ERPX), Financial Software, Stock Management, Enterprise Applications
-- **AI Tools**: ChatGPT, Google Gemini, GitHub Copilot for test case generation
+- **Domain**: ERP Systems (ERPX), Financial Software, HR Systems, Inventory Management, Sales & Purchase Workflows
+- **AI Tools**: ChatGPT, Google Gemini, Claude AI, GitHub Copilot for test case generation
 - **Bug Tracking**: Jira for defect management and tracking
 - **Collaboration Tools**: GitHub, Git for version control and collaboration
 - **Testing Approaches**: Black-box testing, Grey-box testing, Risk-based testing, End-to-end testing
@@ -238,10 +321,10 @@ Great QA engineers are made through curiosity, methodology, and relentless pursu
 I believe in staying current with industry trends and continuously expanding my skill set:
 
 #### 🔥 Currently Working On
-- 🏢 **ERPX Financials Module**: Deep testing of financial workflows and reporting
-- 🤖 **AI-Assisted Testing**: Refining workflows with ChatGPT, Gemini, and GitHub Copilot
-- 📦 **Multi-Module Integration**: Testing seamless data flow across ERPX modules
-- 📊 **Financial Data Validation**: Ensuring accuracy in critical business calculations
+- 🏢 **ERPX Multi-Module Testing**: Deep testing across Financials, HR, Sales, Purchase, and Inventory modules
+- 🤖 **AI-Assisted Testing**: Refining workflows with ChatGPT, Gemini, Claude AI, and GitHub Copilot
+- 📦 **Cross-Module Integration**: Testing seamless data flow across all ERPX modules
+- 📊 **Business Process Validation**: Ensuring accuracy in critical enterprise workflows
 
 #### 📖 Currently Learning
 - **Test Automation**: Exploring Selenium WebDriver and Playwright for automated testing
@@ -249,7 +332,7 @@ I believe in staying current with industry trends and continuously expanding my 
 - **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
 - **CI/CD Integration**: Learning how QA fits into DevOps pipelines
 - **Advanced AI Testing**: Mastering AI-powered testing with MCP and LLMs
-- **ERP Best Practices**: Deepening knowledge of financial and stock management systems
+- **ERP Best Practices**: Deepening knowledge across all enterprise modules
 
 #### 🎯 Target Certifications
 - **ISTQB Foundation Level** (In Progress)
@@ -278,8 +361,8 @@ I believe in staying current with industry trends and continuously expanding my 
 
 ### 🌟 Unique Differentiators
 - **Cross-Domain Thinking**: Scientific research background enables unique testing perspectives
-- **ERP Testing Specialization**: Deep expertise in ERPX system with focus on Financials and Stock Management
-- **AI-Augmented Testing**: Leveraging ChatGPT, Gemini, and Copilot to enhance test case generation efficiency
+- **ERP Testing Specialization**: Deep expertise in ERPX system across **10+ modules** including Financials, HR, Sales, Purchase, and Inventory
+- **AI-Augmented Testing**: Leveraging ChatGPT, Gemini, Claude AI, and Copilot to enhance test case generation efficiency
 - **Modern QA Approach**: Early adopter of AI-powered testing methodologies and agentic workflows
 - **Growth Mindset**: Continuously learning and adapting to industry best practices
 - **Quality Advocate**: Passionate about building bug-free, user-centric experiences
@@ -297,11 +380,11 @@ graph LR
     C --> D[📊 Report]
     D --> E[🔄 Improve]
     E --> A
-    style A fill:#4A90E2
-    style B fill:#5C6AC4
-    style C fill:#27AE60
-    style D fill:#E67E22
-    style E fill:#8E44AD
+    style A fill:#4A90E2,color:#fff
+    style B fill:#5C6AC4,color:#fff
+    style C fill:#27AE60,color:#fff
+    style D fill:#E67E22,color:#fff
+    style E fill:#8E44AD,color:#fff
 ```
 
 </div>
@@ -318,7 +401,7 @@ I follow a comprehensive, methodical approach to quality assurance:
 
 #### 2️⃣ **Plan Strategically**
 - Create comprehensive test plans aligned with project goals
-- Leverage AI tools (ChatGPT, Gemini, Copilot) to generate diverse test scenarios
+- Leverage AI tools (ChatGPT, Gemini, Claude AI, Copilot) to generate diverse test scenarios
 - Prioritize testing based on risk assessment and business impact
 - Design test cases covering positive, negative, and edge scenarios
 
@@ -327,7 +410,7 @@ I follow a comprehensive, methodical approach to quality assurance:
 - Execute AI-generated test cases manually with precision and analytical insight
 - Maintain traceability between requirements and test cases
 - Use exploratory testing to uncover unexpected issues
-- Validate integration across ERP modules (Financials, Stocks, etc.)
+- Validate integration across ERP modules (Financials, HR, Sales, Purchase, Inventory, etc.)
 
 #### 4️⃣ **Report Clearly**
 - Document bugs with clear reproduction steps and evidence (screenshots/videos)
