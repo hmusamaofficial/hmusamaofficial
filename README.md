@@ -1,556 +1,141 @@
-<!-- Header Banner with Enhanced Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Usama&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=190&section=header&text=Muhammad%20Usama&fontSize=54&fontAlignY=36&fontColor=FFFFFF&desc=SQA%20%2F%20QA%20Engineer%20%7C%20ERP%20Testing%20%7C%20Quality%20Engineering&descSize=18&descAlignY=58" alt="Muhammad Usama — SQA / QA Engineer specializing in ERP testing and quality engineering" />
 </div>
 
-<!-- Stylish Name Banner with Glow Effect -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" />
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=MUHAMMAD+USAMA" alt="Name" />
-  </picture>
-</div>
+<p align="center">
+  I help teams ship reliable business software through risk-focused testing, clear defect evidence, cross-module ERP validation, and automation-ready test design.
+</p>
 
-<!-- Professional Title with Premium Font -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&height=45&lines=%E2%9C%A8+Quality+Assurance+Engineer+%E2%9C%A8" alt="Title" />
-</div>
-
-<!-- Animated Role Descriptions -->
-<div align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=Manual+Testing+Expert+%7C+ERP+Specialist;AI-Powered+Testing+Enthusiast;Multi-Module+ERP+Systems+Testing;Quality+Assurance+%26+Test+Automation;Building+Bug-Free+Software+Experiences" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Decorative Line -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- Profile Stats Badges -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hmusamaofficial&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusama)
-  [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hmusamaofficial)
-  
-</div>
-
-<!-- Tagline with Fun Element -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%90%9B+Breaking+Software+Professionally+Since+2025;%F0%9F%8E%AF+ERP+Testing+Specialist+%7C+AI-Powered+QA+Pioneer" alt="Tagline" />
-</div>
+<p align="center">
+  <a href="https://github.com/hmusamaofficial"><img src="https://img.shields.io/badge/GitHub-hmusamaofficial-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://hmusama.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="QA portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hmusama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://www.upwork.com/freelancers/~01c5bcc00e0f0a4a9e"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" /></a>
+  <a href="https://www.fiverr.com/i_am_muhammad"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr profile" /></a>
+  <a href="https://linktr.ee/hmusamaofficial"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Footprint
 
-```typescript
-const muhammadUsama = {
-    title: "QA Engineer",
-    location: "Pakistan 🇵🇰",
-    background: "MS Chemistry Researcher → QA Professional",
-    currentFocus: "Quality Assurance & Testing Excellence",
-    
-    expertise: {
-        testingTypes: ["Manual Testing", "Exploratory Testing", "Regression Testing", 
-                       "UAT", "Smoke Testing", "Sanity Testing"],
-        modernApproach: ["AI-Powered Testing", "Agentic Test Workflows", 
-                        "AI-Assisted Test Case Generation"],
-        aiTools: ["ChatGPT", "Google Gemini", "GitHub Copilot", "Claude AI"],
-        erpModules: {
-            primary: ["Financials", "HR & Payroll", "Inventory", "Sales", "Purchase"],
-            additional: ["Master Data", "Support", "User Management", 
-                        "Org & Subscription", "Stock Management"]
-        },
-        methodology: ["Agile/Scrum", "SDLC", "STLC", "Defect Lifecycle"],
-        mindset: "Analytical • Detail-Oriented • Quality-Obsessed"
-    },
-    
-    uniqueValue: {
-        scientificBackground: "Research experience brings analytical rigor",
-        aiLeveraging: "Using AI tools to enhance testing efficiency",
-        crossDomainExpertise: "Bridging technical and domain knowledge",
-        erpSpecialization: "Deep expertise in multi-module ERP system testing",
-        adaptability: "Quick learner, embracing modern QA innovations",
-        perspective: "QA is about critical thinking, not just code"
-    },
-    
-    quote: "Breaking things professionally to make them unbreakable 🐛🔍"
-};
-```
+<!-- AUTO-PROFESSIONAL-FOOTPRINT:START -->
+<p>
+  <strong>Public GitHub affiliation:</strong>
+  <a href="https://github.com/texinnova"><img src="https://avatars.githubusercontent.com/u/144479047?s=96&amp;v=4" width="24" height="24" align="center" alt="Texinnova organization avatar" /> Texinnova (@texinnova)</a>
+</p>
 
-### 🎯 Why QA? Why Me?
+<p><strong>Recent public organization activity:</strong></p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/frappe"><img src="https://avatars.githubusercontent.com/u/836974?s=96&amp;v=4" width="56" height="56" alt="Frappe organization avatar" /><br /><strong>Frappe</strong><br /><sub>@frappe</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/microsoft"><img src="https://avatars.githubusercontent.com/u/6154722?s=96&amp;v=4" width="56" height="56" alt="Microsoft organization avatar" /><br /><strong>Microsoft</strong><br /><sub>@microsoft</sub></a>
+    </td>
+  </tr>
+</table>
 
-Modern software quality requires more than just technical skills—it demands **analytical thinking**, **attention to detail**, and **domain expertise**. My scientific research background has honed these exact qualities:
+<sub>Organizations are included only when GitHub verifies recent public commit, pull-request, or issue activity in an organization-owned repository. Contribution activity does not imply employment. GitHub reports additional private contributions but does not expose their organization details to this workflow. Texinnova ERPX experience is described separately below.</sub>
+<!-- AUTO-PROFESSIONAL-FOOTPRINT:END -->
 
-- 🔬 **Research Methodology** → Systematic test case design
-- 🧪 **Experimental Precision** → Meticulous bug documentation  
-- 📊 **Data Analysis** → Pattern recognition in software behavior
-- 🧠 **Critical Thinking** → Root cause analysis and problem solving
+## About Me
 
-Great QA engineers are made through curiosity, methodology, and relentless pursuit of quality—not just coding skills.
+I am an **SQA / QA Engineer from Pakistan** with professional experience testing **Texinnova ERPX**. I translate requirements and business rules into practical coverage, investigate failures carefully, and communicate defects so developers and product stakeholders can act on them quickly.
 
----
+My path into quality engineering began in **MS Chemistry research**. That background still shapes how I work: define the question, control the conditions, observe precisely, document the evidence, and verify the result.
 
-## 🛠️ Technical Skills & Tools
+I am strengthening my automation practice with **Playwright**, turning stable manual scenarios into maintainable checks while continuing to build foundations in API testing, SQL, and Selenium with Python.
 
-### 🧪 Testing Expertise
-<div align="center">
+## QA Strengths
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-4A90E2?style=for-the-badge)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Advanced-4A90E2?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-Proficient-4A90E2?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-Expert-4A90E2?style=for-the-badge)
+| Focus | Practical value |
+| --- | --- |
+| Risk-based test design | Prioritizes critical workflows, boundary conditions, negative paths, and likely failure points |
+| Exploratory and functional testing | Finds unexpected behavior while confirming requirements and user outcomes |
+| Regression, smoke, and sanity testing | Builds release confidence without losing focus on the highest-impact areas |
+| Defect reporting | Provides reproducible steps, evidence, expected versus actual results, severity, and business context |
+| Integration and end-to-end testing | Validates data movement and dependencies across connected ERP modules |
+| Requirements analysis | Identifies ambiguity, missing rules, permission risks, and testability concerns early |
+| QA collaboration | Works with developers and product stakeholders through investigation, fixes, and verification |
+| Automation-ready scenarios | Converts repeatable manual coverage into stable Playwright tests with clear assertions |
 
-![UAT](https://img.shields.io/badge/UAT-Experienced-5C6AC4?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-Proficient-5C6AC4?style=for-the-badge)
-![Sanity Testing](https://img.shields.io/badge/Sanity_Testing-Proficient-5C6AC4?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-Learning-5C6AC4?style=for-the-badge)
+## How I Work
 
-</div>
+1. **Understand** the requirement, user goal, dependencies, and business rule.
+2. **Model risk** around critical paths, permissions, integrations, data integrity, and edge cases.
+3. **Design coverage** with focused positive, negative, boundary, exploratory, and regression scenarios.
+4. **Execute and investigate** with repeatable data, browser evidence, API checks, logs, and database validation where appropriate.
+5. **Report clearly** so each defect communicates impact, evidence, reproduction steps, and expected behavior.
+6. **Verify and improve** by retesting fixes, checking affected workflows, and identifying stable automation candidates.
 
-### 🏢 ERP & Domain Expertise
-<div align="center">
+Typical deliverables include concise test scenarios, reproducible defect reports, release-focused smoke and regression checks, and Playwright-ready manual flows.
 
-![ERP Testing](https://img.shields.io/badge/ERP_Testing-Specialist-E67E22?style=for-the-badge&logo=enterprise&logoColor=white)
-![ERPX System](https://img.shields.io/badge/ERPX-System_Testing-D35400?style=for-the-badge)
-![Financials Module](https://img.shields.io/badge/Financials-Primary_Focus-27AE60?style=for-the-badge&logo=cashapp&logoColor=white)
-![Stock Management](https://img.shields.io/badge/Stock_Management-Testing-16A085?style=for-the-badge&logo=dropbox&logoColor=white)
+## ERP Testing Experience
 
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-Multi_Module-8E44AD?style=for-the-badge)
-![Business Workflows](https://img.shields.io/badge/Business_Workflows-Validation-C0392B?style=for-the-badge)
-![Financial Systems](https://img.shields.io/badge/Financial_Systems-Expert-F39C12?style=for-the-badge&logo=stripe&logoColor=white)
+### Texinnova ERPX
 
-</div>
+Professional experience includes QA work on Texinnova ERPX across:
 
-### 🤖 AI-Powered Testing (Cutting Edge)
-<div align="center">
+- **HR and Payroll** — employee records, attendance, leave, payroll rules, and permissions.
+- **Financials** — transaction flows, business rules, calculations, records, and data integrity.
+- **CRM and Sales** — leads, customers, quotations, orders, status changes, and connected workflows.
+- **Purchase and Inventory** — suppliers, procurement, stock movement, warehouses, and reconciliation paths.
+- **Master Data** — shared records, configuration, validation rules, dependencies, and access control.
 
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=for-the-badge)
-![VS Code AI](https://img.shields.io/badge/VS_Code-AI_Integrations-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-Natural_Language-10B981?style=for-the-badge)
+My work includes manual and exploratory testing, test case design, cross-module validation, regression and smoke checks, defect investigation, fix verification, and collaboration around release risk.
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Test_Case_Generation-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI_Assistant-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Test_Scenarios-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-Advanced_Analysis-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+## Tools & Learning
 
-</div>
+| Level | Tools and practices |
+| --- | --- |
+| Practical QA work | Manual testing, exploratory testing, test cases, bug reporting, regression, smoke, sanity, integration, end-to-end testing |
+| Daily workflow | GitHub, Git, VS Code, Ubuntu/Linux, Docker, browser DevTools, issue tracking, test documentation |
+| Developing | Playwright automation, stable locators, reusable test data, assertions, and maintainable test structure |
+| Building foundations | Postman and API testing, SQL validation, Selenium with Python, and automation patterns |
 
-> 💡 **Pioneering AI-Driven QA**: Leveraging Model Context Protocol (MCP) and AI assistants to perform intelligent testing via natural language commands—no code required, just strategic thinking!
+## Evidence & Featured Work
 
-> 🤖 **AI-Assisted Test Case Generation**: Using ChatGPT, Google Gemini, Claude AI, and GitHub Copilot to generate comprehensive test cases and scenarios, then executing them manually with precision and analytical insight. This hybrid approach combines AI efficiency with human expertise for superior test coverage.
+| Evidence | What you can inspect |
+| --- | --- |
+| [QA Engineer Portfolio](https://hmusama.vercel.app) · [Source](https://github.com/hmusamaofficial/usama-portfolio) | Public overview of my QA background, experience, services, and technical interests |
+| [Profile Automation](https://github.com/hmusamaofficial/hmusamaofficial/blob/main/scripts/update-profile.mjs) | Dependency-free Node.js automation that verifies public GitHub affiliation and organization contribution activity |
+| [Public GitHub Activity](https://github.com/hmusamaofficial?tab=overview) | Repositories, contribution history, pull requests, issues, and ongoing technical work visible on GitHub |
 
-### 🧰 Tools & Technologies
-<div align="center">
+> Most professional ERPX testing activity is performed in organization repositories and may not be publicly inspectable.
 
-![Jira](https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?style=for-the-badge&logo=jira)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-Testing-4285F4?style=for-the-badge&logo=googlechrome)
+## GitHub Activity
 
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown)
-![Agile](https://img.shields.io/badge/Agile-Methodology-009FDA?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-Framework-6DB33F?style=for-the-badge)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hmusamaofficial&theme=tokyonight" alt="Languages used across Muhammad Usama's public repositories" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hmusamaofficial&theme=tokyonight&hide_border=true" alt="Muhammad Usama's public GitHub contribution summary" />
+</p>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&area=true&custom_title=Public%20Contribution%20Activity" alt="Muhammad Usama's public GitHub contribution activity graph" />
+</p>
 
-### 💪 Core Competencies
-- ✅ Test Case Design & Execution
-- ✅ Defect Tracking & Lifecycle Management  
-- ✅ Requirements Analysis & Validation
-- ✅ Cross-Browser & Cross-Platform Testing
-- ✅ Documentation & Reporting
-- ✅ Team Collaboration & Communication
-- ✅ Analytical Problem Solving
-- ✅ Continuous Learning & Adaptability
+<sub>These cards summarize public repository activity and may omit private organization work. Repository language data describes public code composition, not skill proficiency.</sub>
 
----
+## Let’s Work Together
 
-## 📊 GitHub Statistics
+I am open to **full-time SQA/QA roles, QA automation opportunities, ERP testing positions, remote international work, and freelance manual testing projects**.
+
+Based in Pakistan and available for remote collaboration with international teams and time zones.
+
+If you need someone who can understand business workflows, expose risk clearly, document defects precisely, and help move repeatable coverage toward automation, let’s talk.
+
+<p align="center">
+  <a href="mailto:hmusama2018@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Usama" /></a>
+  <a href="https://www.linkedin.com/in/hmusama"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.instagram.com/itsusamaofficial"><img src="https://img.shields.io/badge/Instagram-itsusamaofficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <strong>Thoughtful testing • Clear evidence • Stronger releases</strong>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hmusamaofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hmusamaofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hmusamaofficial&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmusamaofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
-</div>
-
-<!-- GitHub Trophies with Working Service -->
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=hmusamaofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Current Role: QA Engineer
-**Focus Areas:**
-- 🔍 **Manual Testing**: Comprehensive test case design and execution for web and mobile applications
-- 🏢 **ERP System Testing**: Specialized testing of ERPX - Enterprise Resource Planning system with multi-module expertise
-- 🤖 **AI-Powered Testing**: Utilizing MCP (Model Context Protocol) for intelligent, agentic testing workflows
-- 🤖 **AI-Assisted QA**: Leveraging ChatGPT, Google Gemini, Claude AI, and GitHub Copilot for test case generation and scenario planning
-- 📋 **Test Documentation**: Creating detailed test plans, test cases, and comprehensive bug reports
-- 🔄 **Regression Testing**: Ensuring stability across releases through systematic regression test suites
-- 🤝 **Cross-functional Collaboration**: Working closely with developers, product managers, and stakeholders to ensure quality delivery
-- 📊 **Quality Metrics**: Tracking and reporting on defect density, test coverage, and quality trends
-
----
-
-### 🏢 ERP Testing Expertise (ERPX System)
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                        🏆 ERPX MODULE TESTING EXPERTISE                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   ⭐ PRIMARY EXPERTISE (Core Modules)                                       │
-│   ════════════════════════════════════                                      │
-│   💰 Financials      │ 👥 HR & Payroll   │ 📦 Inventory                     │
-│   💳 Sales           │ 🛒 Purchase                                          │
-│                                                                             │
-│   🔧 ADDITIONAL MODULES                                                      │
-│   ════════════════════                                                      │
-│   📋 Master Data     │ 🎫 Support        │ 👤 User Management               │
-│   🏢 Org & Subscription │ 📊 Stock Management                               │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-#### ⭐ Primary Module Expertise
-
-<div align="center">
-
-| Module | Expertise Level | Key Testing Areas |
-|:------:|:---------------:|:------------------|
-| 💰 **Financials** | 🔥 Expert | Accounting, Billing, Invoicing, Financial Reports, Transactions, Ledgers |
-| 👥 **HR & Payroll** | 🔥 Expert | Employee Management, Payroll Processing, Leave Management, Attendance |
-| 📦 **Inventory** | 🔥 Expert | Stock Tracking, Warehouse Operations, Stock Movements, Inventory Valuation |
-| 💳 **Sales** | 🔥 Expert | Sales Orders, Quotations, Customer Management, Sales Analytics |
-| 🛒 **Purchase** | 🔥 Expert | Purchase Orders, Vendor Management, Procurement Workflows, PO Approvals |
-
-</div>
-
-#### 🔧 Additional Module Testing
-
-<div align="center">
-
-| Module | Testing Focus |
-|:------:|:--------------|
-| 📋 **Master Data** | Data Integrity, Master Records, Configuration Settings |
-| 🎫 **Support** | Ticket Management, Issue Tracking, Customer Support Workflows |
-| 👤 **User Management** | Role-Based Access Control, Permissions, User Authentication |
-| 🏢 **Org & Subscription** | Organization Settings, Subscription Plans, Billing Cycles |
-| 📊 **Stock Management** | Real-time Stock Updates, Multi-warehouse, Stock Reconciliation |
-
-</div>
-
-#### 🔗 Cross-Module Integration Testing
-
-```mermaid
-graph TD
-    A[💰 Financials] --> B[💳 Sales]
-    A --> C[🛒 Purchase]
-    A --> D[👥 HR & Payroll]
-    B --> E[📦 Inventory]
-    C --> E
-    E --> F[📊 Stock Management]
-    D --> A
-    G[📋 Master Data] --> A
-    G --> B
-    G --> C
-    H[👤 User Management] --> I[🔐 Access Control]
-    I --> A
-    I --> B
-    I --> C
-    
-    style A fill:#27AE60,stroke:#1E8449,color:#fff
-    style B fill:#3498DB,stroke:#2980B9,color:#fff
-    style C fill:#E74C3C,stroke:#C0392B,color:#fff
-    style D fill:#9B59B6,stroke:#8E44AD,color:#fff
-    style E fill:#F39C12,stroke:#D68910,color:#fff
-    style F fill:#1ABC9C,stroke:#16A085,color:#fff
-    style G fill:#34495E,stroke:#2C3E50,color:#fff
-    style H fill:#E67E22,stroke:#D35400,color:#fff
-    style I fill:#7F8C8D,stroke:#707B7C,color:#fff
-```
-
-> 💡 **ERP Testing Approach**: Combining domain knowledge of business processes with technical testing expertise to ensure ERPX delivers reliable, accurate, and user-friendly enterprise solutions across all integrated modules.
-
----
-
-### 🎯 Key Achievements & Responsibilities
-- ✅ Designed and executed comprehensive test scenarios for complex ERP application features across **10+ modules**
-- ✅ Specialized in **Financials, HR, Inventory, Sales, and Purchase** module testing ensuring accuracy in critical business operations
-- ✅ Identified and documented **critical bugs** before production release, preventing potential customer impact
-- ✅ Implemented AI-driven testing approaches using cutting-edge tools (ChatGPT, Gemini, Claude AI, GitHub Copilot for test generation)
-- ✅ Validated **end-to-end business workflows** spanning multiple ERP modules
-- ✅ Collaborated in Agile/Scrum environment with sprint planning, daily standups, and retrospectives
-- ✅ Created detailed bug reports with reproduction steps, screenshots, and severity classifications
-- ✅ Performed exploratory testing to uncover edge cases and usability issues across ERP modules
-- ✅ Tested **role-based access control** and user permissions across all modules
-- ✅ Contributed to improving QA processes and testing workflows within the team
-
-### 🚀 Technologies & Methodologies in Practice
-- **Testing Types**: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UAT, Exploratory Testing, Integration Testing
-- **Domain**: ERP Systems (ERPX), Financial Software, HR Systems, Inventory Management, Sales & Purchase Workflows
-- **AI Tools**: ChatGPT, Google Gemini, Claude AI, GitHub Copilot for test case generation
-- **Bug Tracking**: Jira for defect management and tracking
-- **Collaboration Tools**: GitHub, Git for version control and collaboration
-- **Testing Approaches**: Black-box testing, Grey-box testing, Risk-based testing, End-to-end testing
-- **Methodologies**: Agile/Scrum, SDLC, STLC, Defect Lifecycle Management
-
-> 💡 **Note**: While currently working in a private repository environment, I've gained invaluable hands-on experience in professional QA practices, AI-powered testing workflows, and modern development methodologies that I'm eager to bring to new opportunities.
-
----
-
-## 🎯 Professional Goals
-
-### 🚀 Current Focus & 2026 Objectives
-- 🎓 **Certifications**: Obtain ISTQB Foundation Level certification
-- 🤖 **AI Testing Mastery**: Deepen expertise in AI-powered testing workflows and MCP integrations
-- 📈 **Automation Skills**: Learn test automation fundamentals (Selenium/Playwright basics)
-- 🌐 **API Testing**: Master REST API testing with Postman/Newman
-- 🏆 **Career Growth**: Advance to Senior QA Engineer role
-
-### 🌟 Long-term Vision
-- 🎯 Lead QA initiatives for complex enterprise applications
-- 🤝 Mentor junior QA engineers and build testing best practices
-- 🛠️ Implement comprehensive test automation frameworks
-- 📚 Contribute to QA community through blogs/content
-- 🌍 Work on international projects with diverse teams
-
----
-
-## 📚 Learning & Development
-
-### 🎓 Continuous Learning Journey
-
-I believe in staying current with industry trends and continuously expanding my skill set:
-
-#### 🔥 Currently Working On
-- 🏢 **ERPX Multi-Module Testing**: Deep testing across Financials, HR, Sales, Purchase, and Inventory modules
-- 🤖 **AI-Assisted Testing**: Refining workflows with ChatGPT, Gemini, Claude AI, and GitHub Copilot
-- 📦 **Cross-Module Integration**: Testing seamless data flow across all ERPX modules
-- 📊 **Business Process Validation**: Ensuring accuracy in critical enterprise workflows
-
-#### 📖 Currently Learning
-- **Test Automation**: Exploring Selenium WebDriver and Playwright for automated testing
-- **API Testing**: Deep-diving into REST API testing with Postman and API automation
-- **Performance Testing**: Understanding load testing concepts and tools (JMeter basics)
-- **CI/CD Integration**: Learning how QA fits into DevOps pipelines
-- **Advanced AI Testing**: Mastering AI-powered testing with MCP and LLMs
-- **ERP Best Practices**: Deepening knowledge across all enterprise modules
-
-#### 🎯 Target Certifications
-- **ISTQB Foundation Level** (In Progress)
-- **ISTQB Advanced Test Analyst** (Planned)
-- **Certified Agile Tester (CAT)** (Future)
-
-#### 📝 Knowledge Areas of Interest
-- Shift-left testing methodologies
-- Test-driven development (TDD) concepts
-- Behavior-driven development (BDD) with Cucumber
-- Mobile testing best practices (iOS & Android)
-- Accessibility testing (WCAG guidelines)
-- Security testing fundamentals
-
----
-
-## 💼 What I Bring to Your Team
-
-<div align="center">
-
-| 🎯 Quality First | 🔍 Detail Oriented | 🚀 Fast Learner | 🤝 Team Player |
-|:---:|:---:|:---:|:---:|
-| Uncompromising standards for software quality | Nothing escapes my testing scrutiny | Rapid adaptation to new tools & domains | Clear communication & collaboration |
-
-</div>
-
-### 🌟 Unique Differentiators
-- **Cross-Domain Thinking**: Scientific research background enables unique testing perspectives
-- **ERP Testing Specialization**: Deep expertise in ERPX system across **10+ modules** including Financials, HR, Sales, Purchase, and Inventory
-- **AI-Augmented Testing**: Leveraging ChatGPT, Gemini, Claude AI, and Copilot to enhance test case generation efficiency
-- **Modern QA Approach**: Early adopter of AI-powered testing methodologies and agentic workflows
-- **Growth Mindset**: Continuously learning and adapting to industry best practices
-- **Quality Advocate**: Passionate about building bug-free, user-centric experiences
-
----
-
-## 🔍 My Testing Approach
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📋 Understand] --> B[📝 Plan]
-    B --> C[⚡ Execute]
-    C --> D[📊 Report]
-    D --> E[🔄 Improve]
-    E --> A
-    style A fill:#4A90E2,color:#fff
-    style B fill:#5C6AC4,color:#fff
-    style C fill:#27AE60,color:#fff
-    style D fill:#E67E22,color:#fff
-    style E fill:#8E44AD,color:#fff
-```
-
-</div>
-
-### 🎯 Testing Philosophy
-
-I follow a comprehensive, methodical approach to quality assurance:
-
-#### 1️⃣ **Understand Requirements**
-- Thoroughly analyze functional and non-functional requirements
-- Ask clarifying questions to eliminate ambiguity
-- Identify potential edge cases and boundary conditions early
-- Review business workflows in ERP context
-
-#### 2️⃣ **Plan Strategically**
-- Create comprehensive test plans aligned with project goals
-- Leverage AI tools (ChatGPT, Gemini, Claude AI, Copilot) to generate diverse test scenarios
-- Prioritize testing based on risk assessment and business impact
-- Design test cases covering positive, negative, and edge scenarios
-
-#### 3️⃣ **Execute Methodically**
-- Follow systematic test execution with detailed documentation
-- Execute AI-generated test cases manually with precision and analytical insight
-- Maintain traceability between requirements and test cases
-- Use exploratory testing to uncover unexpected issues
-- Validate integration across ERP modules (Financials, HR, Sales, Purchase, Inventory, etc.)
-
-#### 4️⃣ **Report Clearly**
-- Document bugs with clear reproduction steps and evidence (screenshots/videos)
-- Classify defects by severity and priority with business impact analysis
-- Provide actionable insights to development teams
-- Track defects through complete lifecycle in Jira
-
-#### 5️⃣ **Collaborate & Improve**
-- Work closely with cross-functional teams
-- Participate in refinement and planning sessions
-- Share AI-assisted testing best practices with team
-- Continuously seek ways to improve testing processes
-
-### 🛡️ Quality Mindset
-> *"I don't just find bugs—I prevent them by thinking like an end-user, understanding the system holistically, and advocating for quality at every stage of development."*
-
----
-
-## 💭 Professional Philosophy
-
-<div align="center">
-  
-  > *"Quality is not an act, it is a habit."* — Aristotle
-  
-  > *"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten."* — Karl Wiegers
-  
-  > *"Testing leads to failure, and failure leads to understanding."* — Burt Rutan
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-I'm always open to discussing QA opportunities, testing strategies, or collaboration on quality initiatives!
-
-### 🌐 Professional Platforms
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusama)
-[![GitHub](https://img.shields.io/badge/GitHub-@hmusamaofficial-181717?style=for-the-badge&logo=github)](https://github.com/hmusamaofficial)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmusama2018@gmail.com)
-
-### 💼 Freelance & Services
-
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c5bcc00e0f0a4a9e)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Quality_Testing-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/i_am_muhammad)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hmusamaofficial)
-
-### 🔗 More Links
-
-[![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hmusamaofficial)
-
-</div>
-
----
-
-## 💡 Open to Opportunities
-
-### 🚀 Available For
-
-I'm actively seeking opportunities to contribute my QA expertise to innovative teams and projects:
-
-- **Full-time QA Engineer positions** - Ready to bring professional testing excellence to your team
-- **Contract/Freelance QA projects** - Available for short-term and long-term engagements
-- **QA Consulting** - Help improve your testing processes and quality standards
-- **Manual Testing Services** - Comprehensive testing for web and mobile applications
-- **AI-Powered Testing Projects** - Leveraging cutting-edge tools for modern QA needs
-- **Remote Collaboration** - Experienced in remote work with international teams
-
-### 🎯 What I'm Looking For
-- **Growth-oriented teams** that value quality and continuous improvement
-- **Modern tech stacks** where I can apply and expand my QA skills
-- **Collaborative environments** that encourage learning and knowledge sharing
-- **Impactful projects** where quality makes a real difference to users
-- **Opportunities** to work with AI-powered testing and automation
-
-### 📍 Work Preferences
-- ✅ Remote work (preferred)
-- ✅ Hybrid arrangements
-- ✅ Flexible hours for international collaboration
-- ✅ Open to relocation for the right opportunity
-
-> 💬 **Ready to discuss how I can contribute to your quality assurance needs!** Feel free to reach out via LinkedIn, email, or through any of my freelance platforms.
-
----
-
-<div align="center">
-  
-  ### ⭐ If you find my profile interesting, consider giving my repositories a star!
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
-</div>
-
----
-
-<div align="center">
-  
-  **🐛 Breaking software professionally since 2025 • Built with 💙 for Quality**
-  
-  ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)
-  ![QA Focus](https://img.shields.io/badge/Focus-Quality_Assurance-blue?style=flat-square)
-  ![Always Learning](https://img.shields.io/badge/Status-Always_Learning-green?style=flat-square)
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=90&section=footer" alt="Blue and cyan footer decoration" />
 </div>
