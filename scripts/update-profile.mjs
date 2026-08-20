@@ -83,7 +83,6 @@ async function fetchProfileData() {
       user(login: $login) {
         company
         contributionsCollection(from: $from, to: $to) {
-          restrictedContributionsCount
           commitContributionsByRepository(maxRepositories: 100) {
             contributions(first: 1) { totalCount }
             repository {
@@ -143,13 +142,6 @@ async function fetchProfileData() {
 
   if (!user || !collection) {
     throw new Error(`GitHub did not return profile contribution data for ${PROFILE_LOGIN}.`);
-  }
-
-  if (
-    !Number.isInteger(collection.restrictedContributionsCount) ||
-    collection.restrictedContributionsCount < 0
-  ) {
-    throw new Error("GitHub response contains an invalid restricted contribution count.");
   }
 
   for (const field of contributionFields) {
@@ -232,71 +224,63 @@ function collectOrganizations(collection, contributionFields) {
     .slice(0, MAX_ORGANIZATIONS);
 }
 
-function affiliationMarkup(company, companyOrganization) {
-  if (!company?.trim()) {
-    return "<p><strong>Public GitHub affiliation:</strong> Not listed.</p>";
+function mergeOrganizations(companyOrganization, contributionOrganizations) {
+  const organizations = [];
+  const seen = new Set();
+
+  if (companyOrganization) {
+    const login = companyOrganization.login;
+
+    organizations.push({
+      login,
+      name: companyOrganization.name?.trim() || login,
+      url: companyOrganization.url,
+      avatarUrl: companyOrganization.avatarUrl,
+      label: "Current Organization",
+    });
+    seen.add(login.toLowerCase());
   }
 
-  if (!companyOrganization) {
-    return `<p><strong>Public GitHub affiliation:</strong> ${escapeHtml(company.trim())}</p>`;
+  for (const organization of contributionOrganizations) {
+    const key = organization.login.toLowerCase();
+
+    if (seen.has(key)) continue;
+
+    organizations.push({
+      ...organization,
+      label: "Public Contributions",
+    });
+    seen.add(key);
+
+    if (organizations.length === MAX_ORGANIZATIONS) break;
   }
 
-  const name = companyOrganization.name?.trim() || companyOrganization.login;
-  const alt = `${name} organization avatar`;
-
-  return [
-    "<p>",
-    "  <strong>Public GitHub affiliation:</strong>",
-    `  <a href="${escapeHtml(companyOrganization.url)}"><img src="${escapeHtml(companyOrganization.avatarUrl)}" width="24" height="24" align="center" alt="${escapeHtml(alt)}" /> ${escapeHtml(name)} (@${escapeHtml(companyOrganization.login)})</a>`,
-    "</p>",
-  ].join("\n");
+  return organizations;
 }
 
 function organizationTable(organizations) {
   if (organizations.length === 0) {
-    return "<p><strong>Recent public organization activity:</strong> No organization-owned repositories were returned by GitHub for the selected public contribution window.</p>";
+    return ['<table align="center">', "  <tr>", "  </tr>", "</table>"].join("\n");
   }
 
-  const rows = [];
+  const width = `${Math.floor(100 / organizations.length)}%`;
+  const cells = organizations.map((organization) => {
+    const alt = `${organization.name} organization avatar`;
 
-  for (let index = 0; index < organizations.length; index += 3) {
-    const cells = organizations.slice(index, index + 3).map((organization) => {
-      const alt = `${organization.name} organization avatar`;
-
-      return [
-        "    <td align=\"center\" width=\"33%\">",
-        `      <a href="${escapeHtml(organization.url)}"><img src="${escapeHtml(organization.avatarUrl)}" width="56" height="56" alt="${escapeHtml(alt)}" /><br /><strong>${escapeHtml(organization.name)}</strong><br /><sub>@${escapeHtml(organization.login)}</sub></a>`,
-        "    </td>",
-      ].join("\n");
-    });
-
-    rows.push(["  <tr>", ...cells, "  </tr>"].join("\n"));
-  }
+    return [
+      `    <td align="center" width="${width}">`,
+      `      <a href="${escapeHtml(organization.url)}"><img src="${escapeHtml(organization.avatarUrl)}" width="64" height="64" alt="${escapeHtml(alt)}" /><br /><strong>${escapeHtml(organization.name)}</strong></a><br />`,
+      `      <sub>${escapeHtml(organization.label)}</sub>`,
+      "    </td>",
+    ].join("\n");
+  });
 
   return [
-    "<p><strong>Recent public organization activity:</strong></p>",
-    "<table>",
-    ...rows,
+    '<table align="center">',
+    "  <tr>",
+    ...cells,
+    "  </tr>",
     "</table>",
-  ].join("\n");
-}
-
-function generatedFootprint({
-  company,
-  companyOrganization,
-  hasRestrictedContributions,
-  organizations,
-}) {
-  const apiLimitation = hasRestrictedContributions
-    ? "GitHub reports additional private contributions but does not expose their organization details to this workflow."
-    : "GitHub exposes only contribution details visible to this workflow token, so private organization activity may be absent.";
-
-  return [
-    affiliationMarkup(company, companyOrganization),
-    "",
-    organizationTable(organizations),
-    "",
-    `<sub>Organizations are included only when GitHub verifies recent public commit, pull-request, or issue activity in an organization-owned repository. Contribution activity does not imply employment. ${apiLimitation} Texinnova ERPX experience is described separately below.</sub>`,
   ].join("\n");
 }
 
@@ -324,13 +308,9 @@ async function main() {
   const readme = await readFile(README_PATH, "utf8");
   const { user, collection, contributionFields } = await fetchProfileData();
   const companyOrganization = await resolveCompanyOrganization(user.company);
-  const organizations = collectOrganizations(collection, contributionFields);
-  const generated = generatedFootprint({
-    company: user.company,
-    companyOrganization,
-    hasRestrictedContributions: collection.restrictedContributionsCount > 0,
-    organizations,
-  });
+  const contributionOrganizations = collectOrganizations(collection, contributionFields);
+  const organizations = mergeOrganizations(companyOrganization, contributionOrganizations);
+  const generated = organizationTable(organizations);
   const updatedReadme = replaceMarkedSection(readme, generated);
 
   if (updatedReadme === readme) {
@@ -339,7 +319,7 @@ async function main() {
   }
 
   await writeFile(README_PATH, updatedReadme, "utf8");
-  console.log(`Updated professional footprint with ${organizations.length} verified public organization(s).`);
+  console.log(`Updated professional footprint with ${organizations.length} organization card(s).`);
 }
 
 await main();
