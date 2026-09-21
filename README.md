@@ -50,20 +50,24 @@
 <!-- AUTO-PROFESSIONAL-FOOTPRINT:START -->
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/texinnova"><img src="https://avatars.githubusercontent.com/u/144479047?s=96&amp;v=4" width="64" height="64" alt="Texinnova organization avatar" /><br /><strong>Texinnova</strong></a><br />
       <sub>Current Organization</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/frappe"><img src="https://avatars.githubusercontent.com/u/836974?s=96&amp;v=4" width="64" height="64" alt="Frappe organization avatar" /><br /><strong>Frappe</strong></a><br />
       <sub>Public Contributions</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/google-antigravity"><img src="https://avatars.githubusercontent.com/u/242056456?s=96&amp;v=4" width="64" height="64" alt="Google Antigravity organization avatar" /><br /><strong>Google Antigravity</strong></a><br />
       <sub>Public Contributions</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/microsoft"><img src="https://avatars.githubusercontent.com/u/6154722?s=96&amp;v=4" width="64" height="64" alt="Microsoft organization avatar" /><br /><strong>Microsoft</strong></a><br />
+      <sub>Public Contributions</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/openai"><img src="https://avatars.githubusercontent.com/u/14957082?s=96&amp;v=4" width="64" height="64" alt="OpenAI organization avatar" /><br /><strong>OpenAI</strong></a><br />
       <sub>Public Contributions</sub>
     </td>
   </tr>
